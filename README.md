@@ -1,5 +1,11 @@
-# 💫 About Me:
-¡Hola! 👋 Soy un joven programador de 24 años, estudiante de Ingeniería de Sistemas en Colombia 🇨🇴, apasionado por la tecnología, el aprendizaje constante y el desarrollo de soluciones que marquen la diferencia.<br><br>Desde que inicié mi carrera, descubrí que la programación es mucho más que código: es creatividad, lógica y transformación. Estoy comprometido con convertirme en un profesional destacado, y cada día doy lo mejor de mí para lograrlo.<br><br>Me considero una persona proactiva, con una mentalidad de crecimiento y una gran disposición para aprender y colaborar. Tengo muchas ganas de participar en proyectos reales que me permitan adquirir experiencia, aportar ideas frescas y seguir creciendo junto a personas que compartan esta misma pasión.<br><br>Estoy en constante búsqueda de oportunidades para mejorar mis habilidades, enfrentar nuevos retos y dejar huella en cada equipo o proyecto donde tenga la oportunidad de estar.
+💫 About Me
+
+¡Hola! Soy un joven en formación como desarrollador, estudiante de Ingeniería de Sistemas en Colombia 🇨🇴. Actualmente me encuentro aprendiendo y fortaleciendo mis conocimientos en Python, Django, Django REST Framework y FastAPI, con el propósito de convertirme en un desarrollador backend capaz de crear aplicaciones sólidas, escalables y seguras.
+
+Me apasiona la tecnología, el desarrollo de software y la creación de soluciones que generen impacto real. Aunque aún estoy en proceso de aprendizaje, disfruto cada etapa del camino: investigar, probar, cometer errores y seguir mejorando cada día.
+
+Estoy enfocado en construir una base técnica sólida en desarrollo backend, manejo de bases de datos y diseño de APIs, mientras aprendo las buenas prácticas de arquitectura y despliegue.
+Mi meta es seguir creciendo profesionalmente, colaborar en proyectos reales y aportar entusiasmo, dedicación y ganas de aprender en cada reto que enfrente.
 
 
 # 💻 Tech Stack:
