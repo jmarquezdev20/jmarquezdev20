@@ -10,7 +10,7 @@ Backend Developer enfocado en el desarrollo de APIs REST con Python y Django.
 
 ## 🚀 Sobre mí
 
-Desarrollador backend con experiencia en la construcción de APIs REST utilizando Django y Django REST Framework.
+Desarrollador backend enfocado en la construcción de APIs REST con Django y Django REST Framework.
 
 He desarrollado un sistema logístico completo que gestiona inventarios, envíos y facturación, implementando autenticación con JWT, diseño de base de datos relacional (PostgreSQL) y más de 500 pruebas automatizadas (unitarias e integración) para garantizar la calidad del sistema.
 
