@@ -1,71 +1,54 @@
-## 👋 Hola, soy Juan Manuel Márquez Jiménez
+# 👋 Juan Manuel Márquez Jiménez
+### Backend Developer | Python & Django
 
-Backend Developer enfocado en el desarrollo de APIs REST con Python y Django.
+Desarrollador backend especializado en construcción de APIs REST con Django y Django REST Framework. He desarrollado un sistema logístico completo con inventarios, envíos, facturación, autenticación JWT y más de 500 pruebas automatizadas.
 
-🎓 Estudiante de Ingeniería de Sistemas (9º semestre)  
-📍 Barranquilla, Colombia  
-📧 juanmanuelmarquezjimenez9@gmail.com  
-
----
-
-## 🚀 Sobre mí
-
-Desarrollador backend enfocado en la construcción de APIs REST con Django y Django REST Framework.
-
-He desarrollado un sistema logístico completo que gestiona inventarios, envíos y facturación, implementando autenticación con JWT, diseño de base de datos relacional (PostgreSQL) y más de 500 pruebas automatizadas (unitarias e integración) para garantizar la calidad del sistema.
-
-Actualmente busco mi primera oportunidad profesional como Backend Developer, donde pueda aportar valor y seguir creciendo técnicamente.
+🌍 Barranquilla, Colombia | 📧 juanmanuelmarquezjimenez9@gmail.com  
+🔗 [Portafolio](https://portafolio-sdvb.onrender.com)
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-- **Backend:** Python, Django, Django REST Framework  
-- **Bases de datos:** PostgreSQL, MySQL, SQLite  
-- **APIs:** REST API Development, JWT Authentication  
-- **Herramientas:** Docker, Git, GitHub  
-- **Testing:** Unit Testing, Integration Testing  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📦 Proyecto Destacado
 
-### 🏗️ BodegaXpress — Sistema de Gestión Logística
+### 🏭 BodegaXpress – Sistema de Gestión Logística
+> API REST completa para gestión de inventarios, envíos y facturación
 
-Sistema backend desarrollado con Django REST Framework para la gestión de inventarios, envíos y facturación.
+- ✅ API REST con Django REST Framework
+- ✅ Autenticación JWT con control de roles
+- ✅ Gestión de inventarios en tiempo real
+- ✅ Sistema de envíos con estados y lógica automática
+- ✅ Facturación con generación de PDF
+- ✅ Documentación con Swagger
+- ✅ +500 pruebas automatizadas (unitarias e integración)
+- ✅ Docker para entornos de desarrollo
 
-**Características principales:**
-- API REST estructurada con serializers y viewsets  
-- Gestión de inventarios en tiempo real  
-- Sistema de envíos con estados y lógica de negocio  
-- Facturación con generación de PDF  
-- Autenticación JWT con control de roles  
-- Documentación con Swagger  
-- +500 pruebas automatizadas  
-
-🔗 **Repositorio:**  
-https://github.com/jmarquezdev20/sistema-logistico  
-
-🌐 **API en producción (Swagger):**  
-https://sistema-logistico-1-pxsm.onrender.com/api/docs/  
+🔗 [Ver repositorio](https://github.com/jmarquezdev20/sistema-logistico) | [API en producción](https://sistema-logistico-1-pxsm.onrender.com/api/docs/)
 
 ---
 
-## 📈 En lo que me enfoco
+## 📊 GitHub Stats
 
-- Desarrollo de APIs REST escalables  
-- Diseño de bases de datos relacionales  
-- Implementación de lógica de negocio  
-- Buenas prácticas y testing  
-- Arquitectura backend limpia  
+![Juan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmarquezdev20&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarquezdev20&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Contacto
-
-- GitHub: https://github.com/jmarquezdev20  
-- LinkedIn: (agrega tu link aquí cuando lo termines)
-
----
-
-💼 Disponible para oportunidades como Backend Developer
+## 🎓 Certificaciones
+- Desarrollo Web con Django – Platzi, 2025
+- Programación con Python – Platzi, 2025
+- Python Avanzado – Platzi, 2025
+- Gestión de Entornos Virtuales con Python – Platzi, 2025
+- Bases de Datos Relacionales y SQL – Platzi, 2024
