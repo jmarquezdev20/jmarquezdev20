@@ -1,115 +1,154 @@
 <div align="center">
-
-<svg width="100%" viewBox="0 0 680 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="100%" stop-color="#0a1f1a"/>
-    </linearGradient>
-  </defs>
-  <rect width="680" height="200" fill="url(#bg)" rx="10"/>
-  <line x1="0" y1="0" x2="680" y2="0" stroke="#00d4aa" stroke-width="2"/>
-  <line x1="40" y1="30" x2="40" y2="170" stroke="#21262d" stroke-width="0.5"/>
-  <line x1="640" y1="30" x2="640" y2="170" stroke="#21262d" stroke-width="0.5"/>
-  <line x1="40" y1="170" x2="640" y2="170" stroke="#21262d" stroke-width="0.5"/>
-  <circle cx="40" cy="30" r="3" fill="#00d4aa" opacity="0.6"/>
-  <circle cx="640" cy="30" r="3" fill="#00d4aa" opacity="0.6"/>
-  <circle cx="40" cy="170" r="3" fill="#00d4aa" opacity="0.6"/>
-  <circle cx="640" cy="170" r="3" fill="#00d4aa" opacity="0.6"/>
-  <text x="340" y="78" text-anchor="middle" font-family="'Courier New', monospace" font-size="32" font-weight="700" fill="#e6edf3" letter-spacing="-1">Juan Manuel Márquez</text>
-  <text x="340" y="108" text-anchor="middle" font-family="'Courier New', monospace" font-size="13" fill="#00d4aa" letter-spacing="4">BACKEND DEVELOPER</text>
-  <text x="340" y="135" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#8b949e">Python · Django · Django REST Framework · PostgreSQL</text>
-  <text x="340" y="158" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#3d4451">Barranquilla, Colombia 🇨🇴</text>
-</svg>
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/portafolio-00d4aa?style=flat-square&logo=firefox&logoColor=black)](https://portafolio-sdvb.onrender.com)&nbsp;
-[![Email](https://img.shields.io/badge/email-21262d?style=flat-square&logo=gmail&logoColor=ea4335)](mailto:juanmanuelmarquezjimenez9@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/github-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/jmarquezdev20)
-
+  <img alt="coding" height="250px" width="600px" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 </div>
 
----
+<h1 align="center">
+Hola, soy <a href="https://github.com/jmarquezdev20"> Juan Manuel Márquez </a>
+<img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="45px"/>
+</h1>
 
-## `// whoami`
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=true&lines=Backend+Developer;Python+%26+Django;API+REST+con+Django+REST+Framework" width="500"/>
+</p>
 
-```python
-class JuanManuel:
-    ubicacion  = "Barranquilla, Colombia 🇨🇴"
-    rol        = "Backend Developer"
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-    stack      = ["Python", "Django", "DRF", "PostgreSQL", "Docker"]
-    auth       = ["JWT", "RBAC — control de roles y permisos"]
-    testing    = ["pytest", "unittest"]  # 500+ pruebas automatizadas
-    devops     = ["Docker", "Docker Compose", "Git", "GitHub"]
-    docs       = ["Swagger / OpenAPI"]
+<h3>Acerca de mí 👨‍💻</h3>
 
-    buscando   = "oportunidades backend & proyectos freelance 🚀"
-```
+<p align="center">
+Estudiante de <strong>Ingeniería de Sistemas (9º semestre)</strong> en Barranquilla, Colombia 🇨🇴, aprendiendo y enfocándome en el desarrollo backend con Python y Django 🐍. Me interesa construir sistemas bien estructurados con lógica de negocio clara y APIs mantenibles.
+</p>
 
----
+<p align="center">
+Como proyecto personal desarrollé <strong>BodegaXpress</strong> 🏭, un sistema logístico que automatiza inventario, envíos y facturación, con más de <strong>500 pruebas automatizadas</strong>, autenticación <strong>JWT</strong> y documentación con <strong>Swagger / OpenAPI</strong>.
+</p>
 
-## `// stack`
+<p align="center">
+Busco una oportunidad para incorporarme como <strong>Backend Developer</strong>, aportar valor y seguir creciendo profesionalmente 🚀. No dudes en contactarme, siempre estoy abierto a una conversación 🤝
+</p>
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=00d4aa)
-![DRF](https://img.shields.io/badge/Django_REST-0d1117?style=flat-square&logo=django&logoColor=ff7b72)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=79c0ff)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=58a6ff)
-![JWT](https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=e3b341)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=f78166)
-![Swagger](https://img.shields.io/badge/Swagger-0d1117?style=flat-square&logo=swagger&logoColor=85ea2d)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
-## `// métricas`
+## Tech Stack 💻
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=jmarquezdev20&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=8b949e&ring_color=00d4aa"/>
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmarquezdev20&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=8b949e"/>
-
+<table>
+<tbody>
+  <tr>
+    <td align="center" width="20%">
+      <span><b><center>Python</center></b></span>
+      <img height=60px src="https://img.icons8.com/color/2x/python.png">
+    </td>
+    <td align="center" width="20%">
+      <span><b><center>Django</center></b></span>
+      <img height=60px src="https://img.icons8.com/color/2x/django.png">
+    </td>
+    <td align="center" width="20%">
+      <span><b><center>DRF</center></b></span>
+      <img height=60px src="https://img.icons8.com/color/2x/api-settings.png">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%">
+      <span><b><center>PostgreSQL</center></b></span>
+      <img height=60px src="https://img.icons8.com/color/2x/postgreesql.png">
+    </td>
+    <td align="center" width="20%">
+      <span><b><center>MySQL</center></b></span>
+      <img height=60px src="https://img.icons8.com/color/2x/mysql-logo.png">
+    </td>
+    <td align="center" width="20%">
+      <span><b><center>SQLite</center></b></span>
+      <img height=60px src="https://img.icons8.com/ios-filled/2x/sql.png">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%">
+      <span><b><center>Docker</center></b></span>
+      <img height=60px src="https://img.icons8.com/color/2x/docker.png">
+    </td>
+    <td align="center" width="20%">
+      <span><b><center>Git</center></b></span>
+      <img height=60px src="https://img.icons8.com/color/2x/git.png">
+    </td>
+    <td align="center" width="20%">
+      <span><b><center>GitHub</center></b></span>
+      <img height=60px src="https://img.icons8.com/ios-glyphs/2x/github-2.png">
+    </td>
+  </tr>
+</tbody>
+</table>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## `// proyecto destacado`
+## Mis Proyectos ✨
 
-```
-┌─────────────────────────────────────────────────────────┐
-│  🏭  BodegaXpress — Sistema de Gestión Logística        │
-│  ─────────────────────────────────────────────────────  │
-│  API REST completa para gestión empresarial             │
-│                                                         │
-│  ▸ Auth JWT con control de roles y permisos            │
-│  ▸ Inventario en tiempo real                           │
-│  ▸ Envíos con estados automáticos                      │
-│  ▸ Facturación con generación de PDF                   │
-│  ▸ Documentación Swagger / OpenAPI                     │
-│  ▸ +500 pruebas unitarias e integración                │
-│  ▸ Docker para entornos dev/prod                       │
-└─────────────────────────────────────────────────────────┘
-```
+| Proyecto 🚀 | Descripción | Tecnologías |
+|-------------|-------------|-------------|
+| [**BodegaXpress — Sistema Logístico**](https://github.com/jmarquezdev20/sistema-logistico) | API REST para gestión de inventario, envíos y facturación con +500 pruebas automatizadas | Python · Django · DRF · PostgreSQL · JWT · Docker |
+| [**Gestor de Calificaciones**](https://github.com/jmarquezdev20/Gestor-de-calificaciones) | App de escritorio para gestión de calificaciones de estudiantes por grados y períodos, con generación de boletines | Python · Tkinter · SQLite |
 
-[![API Live](https://img.shields.io/badge/▸_API_en_producción-00d4aa?style=flat-square&logoColor=black)](https://sistema-logistico-1-pxsm.onrender.com/api/docs/)
-[![Repo](https://img.shields.io/badge/ver_repositorio-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/jmarquezdev20/sistema-logistico)
+<sup><kbd>***[Ver todos mis repositorios](https://github.com/jmarquezdev20?tab=repositories)***</kbd></sup>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## `// certificaciones`
+<h2>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Certificaciones
+</h2>
+<div align="center">
+<table>
+<tbody>
+  <tr>
+    <td align="center" width="20%">
+      <span><b><center>Desarrollo Web<br>con Django</center></b></span>
+      <img height=60px src="https://img.icons8.com/color/2x/django.png">
+    </td>
+    <td align="center" width="20%">
+      <span><b><center>Python<br>Avanzado</center></b></span>
+      <img height=60px src="https://img.icons8.com/color/2x/python.png">
+    </td>
+    <td align="center" width="20%">
+      <span><b><center>Programación<br>con Python</center></b></span>
+      <img height=60px src="https://img.icons8.com/color/2x/python.png">
+    </td>
+    <td align="center" width="20%">
+      <span><b><center>Gestión de Entornos<br>Virtuales</center></b></span>
+      <img height=60px src="https://img.icons8.com/color/2x/python.png">
+    </td>
+    <td align="center" width="20%">
+      <span><b><center>Bases de Datos<br>Relacionales y SQL</center></b></span>
+      <img height=60px src="https://img.icons8.com/color/2x/mysql-logo.png">
+    </td>
+  </tr>
+</tbody>
+</table>
+</div>
 
-```
-2025  ✓  Desarrollo Web con Django         — Platzi
-2025  ✓  Python Avanzado                   — Platzi
-2025  ✓  Programación con Python           — Platzi
-2025  ✓  Gestión de Entornos Virtuales     — Platzi
-2024  ✓  Bases de Datos Relacionales y SQL — Platzi
-```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## GitHub Stats 📊
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=207521490" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=207521490&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats de @jmarquezdev20" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=207521490&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<p align="center">
+  <a href="mailto:juanmanuelmarquezjimenez9@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="email" height="50" width="50"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jmarquezdev20/"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/jmarquezdev20"><img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="50" width="50"/></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+🌐 Visita mi Portafolio: https://portafolio-sdvb.onrender.com 🚀🌟
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <div align="center">
-<sub>made with ♥ desde barranquilla · colombia 🇨🇴</sub>
+<sub>made with ♥ desde Barranquilla · Colombia 🇨🇴</sub>
 </div>
