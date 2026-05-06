@@ -1,170 +1,115 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4aa,100:79c0ff&height=200&section=header&text=Juan%20Manuel%20M%C3%A1rquez&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20Python%20%26%20Django&descAlignY=55&descSize=18&descColor=b1bac4)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=🐍+Python+%26+Django+Developer;⚡+Django+REST+Framework+Expert;🧪+500%2B+Tests+Automatizados;🐳+Docker+%7C+PostgreSQL+%7C+JWT;🚀+Building+scalable+APIs" alt="Typing SVG" />
+<svg width="100%" viewBox="0 0 680 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0a1f1a"/>
+    </linearGradient>
+  </defs>
+  <rect width="680" height="200" fill="url(#bg)" rx="10"/>
+  <line x1="0" y1="0" x2="680" y2="0" stroke="#00d4aa" stroke-width="2"/>
+  <line x1="40" y1="30" x2="40" y2="170" stroke="#21262d" stroke-width="0.5"/>
+  <line x1="640" y1="30" x2="640" y2="170" stroke="#21262d" stroke-width="0.5"/>
+  <line x1="40" y1="170" x2="640" y2="170" stroke="#21262d" stroke-width="0.5"/>
+  <circle cx="40" cy="30" r="3" fill="#00d4aa" opacity="0.6"/>
+  <circle cx="640" cy="30" r="3" fill="#00d4aa" opacity="0.6"/>
+  <circle cx="40" cy="170" r="3" fill="#00d4aa" opacity="0.6"/>
+  <circle cx="640" cy="170" r="3" fill="#00d4aa" opacity="0.6"/>
+  <text x="340" y="78" text-anchor="middle" font-family="'Courier New', monospace" font-size="32" font-weight="700" fill="#e6edf3" letter-spacing="-1">Juan Manuel Márquez</text>
+  <text x="340" y="108" text-anchor="middle" font-family="'Courier New', monospace" font-size="13" fill="#00d4aa" letter-spacing="4">BACKEND DEVELOPER</text>
+  <text x="340" y="135" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#8b949e">Python · Django · Django REST Framework · PostgreSQL</text>
+  <text x="340" y="158" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#3d4451">Barranquilla, Colombia 🇨🇴</text>
+</svg>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portafolio-00D4AA?style=for-the-badge&logoColor=black)](https://portafolio-sdvb.onrender.com)
-[![Email](https://img.shields.io/badge/📧_Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:juanmanuelmarquezjimenez9@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmarquezdev20)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=jmarquezdev20&style=for-the-badge&color=00d4aa&label=VISITAS+AL+PERFIL)
+[![Portfolio](https://img.shields.io/badge/portafolio-00d4aa?style=flat-square&logo=firefox&logoColor=black)](https://portafolio-sdvb.onrender.com)&nbsp;
+[![Email](https://img.shields.io/badge/email-21262d?style=flat-square&logo=gmail&logoColor=ea4335)](mailto:juanmanuelmarquezjimenez9@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/github-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/jmarquezdev20)
 
 </div>
 
-<br/>
-
 ---
 
-## 🧑‍💻 Sobre mí
+## `// whoami`
 
 ```python
 class JuanManuel:
-    nombre     = "Juan Manuel Márquez Jiménez"
+    ubicacion  = "Barranquilla, Colombia 🇨🇴"
     rol        = "Backend Developer"
-    ubicacion  = "Barranquilla 🇨🇴, Colombia"
-    email      = "juanmanuelmarquezjimenez9@gmail.com"
 
     stack      = ["Python", "Django", "DRF", "PostgreSQL", "Docker"]
-    auth       = ["JWT", "Session Auth", "Role-based access control"]
-    testing    = ["pytest", "unittest", "+500 pruebas automatizadas"]
+    auth       = ["JWT", "RBAC — control de roles y permisos"]
+    testing    = ["pytest", "unittest"]  # 500+ pruebas automatizadas
     devops     = ["Docker", "Docker Compose", "Git", "GitHub"]
+    docs       = ["Swagger / OpenAPI"]
 
-    actualmente = "Construyendo APIs REST robustas y escalables 🚀"
-    buscando    = "Oportunidades backend | Proyectos freelance"
+    buscando   = "oportunidades backend & proyectos freelance 🚀"
 ```
 
-<br/>
+---
+
+## `// stack`
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=00d4aa)
+![DRF](https://img.shields.io/badge/Django_REST-0d1117?style=flat-square&logo=django&logoColor=ff7b72)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=79c0ff)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=58a6ff)
+![JWT](https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=e3b341)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=f78166)
+![Swagger](https://img.shields.io/badge/Swagger-0d1117?style=flat-square&logo=swagger&logoColor=85ea2d)
 
 ---
 
-## 🚀 Stack Tecnológico
+## `// métricas`
 
 <div align="center">
 
-### 💻 Lenguajes & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-
-### 🗄️ Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🔐 Seguridad & Auth
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=00D4AA)
-
-### 🛠️ Herramientas & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=jmarquezdev20&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=8b949e&ring_color=00d4aa"/>
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmarquezdev20&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=8b949e"/>
 
 </div>
-
-<br/>
 
 ---
 
-## 📊 GitHub Stats
+## `// proyecto destacado`
 
-<div align="center">
+```
+┌─────────────────────────────────────────────────────────┐
+│  🏭  BodegaXpress — Sistema de Gestión Logística        │
+│  ─────────────────────────────────────────────────────  │
+│  API REST completa para gestión empresarial             │
+│                                                         │
+│  ▸ Auth JWT con control de roles y permisos            │
+│  ▸ Inventario en tiempo real                           │
+│  ▸ Envíos con estados automáticos                      │
+│  ▸ Facturación con generación de PDF                   │
+│  ▸ Documentación Swagger / OpenAPI                     │
+│  ▸ +500 pruebas unitarias e integración                │
+│  ▸ Docker para entornos dev/prod                       │
+└─────────────────────────────────────────────────────────┘
+```
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmarquezdev20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=79C0FF&text_color=b1bac4&border_radius=10"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmarquezdev20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=b1bac4&border_radius=10"/>
-
-<br/><br/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jmarquezdev20&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4AA&fire=79C0FF&currStreakLabel=00D4AA&border_radius=10)
-
-</div>
-
-<br/>
-
----
-
-## 🏭 Proyecto Destacado
-
-<div align="center">
-
-![BodegaXpress Banner](https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d2030&height=60&text=🏭%20BodegaXpress&fontSize=28&fontColor=00d4aa&fontAlignY=65&desc=Sistema%20de%20Gesti%C3%B3n%20Log%C3%ADstica%20%7C%20API%20REST%20Completa&descSize=13&descColor=79c0ff&descAlignY=85)
-
-</div>
-
-<br/>
-
-> 🎯 **Sistema backend completo** para gestión de inventarios, envíos y facturación empresarial — construido con Django REST Framework, listo para producción.
-
-<br/>
-
-<div align="center">
-
-| 🔧 Módulo | ⚙️ Tecnología | 📋 Descripción |
-|-----------|--------------|----------------|
-| 🔐 **Autenticación** | JWT + RBAC | Control de roles y permisos granular |
-| 📦 **Inventario** | Django ORM | Gestión en tiempo real con señales |
-| 🚚 **Envíos** | State Machine | Estados automáticos con lógica de negocio |
-| 🧾 **Facturación** | ReportLab | Generación de PDF integrada |
-| 📖 **Documentación** | Swagger / drf-yasg | OpenAPI 3.0 interactivo |
-| ✅ **Testing** | pytest + unittest | +500 pruebas unitarias e integración |
-| 🐳 **DevOps** | Docker Compose | Entornos dev/prod reproducibles |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![API Live](https://img.shields.io/badge/🚀_API_en_Producción-00D4AA?style=for-the-badge&logoColor=black)](https://sistema-logistico-1-pxsm.onrender.com/api/docs/)
-[![Repositorio](https://img.shields.io/badge/💻_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmarquezdev20/sistema-logistico)
-
-</div>
-
-<br/>
+[![API Live](https://img.shields.io/badge/▸_API_en_producción-00d4aa?style=flat-square&logoColor=black)](https://sistema-logistico-1-pxsm.onrender.com/api/docs/)
+[![Repo](https://img.shields.io/badge/ver_repositorio-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/jmarquezdev20/sistema-logistico)
 
 ---
 
-## 🎓 Certificaciones
+## `// certificaciones`
 
-<div align="center">
-
-| 🏅 Certificación | 🏫 Institución | 📅 Año |
-|-----------------|---------------|--------|
-| Desarrollo Web con Django | Platzi | 2025 |
-| Python Avanzado | Platzi | 2025 |
-| Programación con Python | Platzi | 2025 |
-| Gestión de Entornos Virtuales con Python | Platzi | 2025 |
-| Bases de Datos Relacionales y SQL | Platzi | 2024 |
-
-</div>
-
-<br/>
-
----
-
-## 🐍 Actividad de Contribuciones
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<br/>
+```
+2025  ✓  Desarrollo Web con Django         — Platzi
+2025  ✓  Python Avanzado                   — Platzi
+2025  ✓  Programación con Python           — Platzi
+2025  ✓  Gestión de Entornos Virtuales     — Platzi
+2024  ✓  Bases de Datos Relacionales y SQL — Platzi
+```
 
 ---
 
 <div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:79c0ff,50:00d4aa,100:0d1117&height=120&section=footer&text=¡Gracias+por+visitar!&fontSize=20&fontColor=ffffff&fontAlignY=65)
-
-*Construyendo el backend del futuro desde Barranquilla 🇨🇴*
-
+<sub>made with ♥ desde barranquilla · colombia 🇨🇴</sub>
 </div>
